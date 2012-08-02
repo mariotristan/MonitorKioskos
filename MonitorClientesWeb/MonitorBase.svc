@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="MonitorClientesWeb.MonitorBase" CodeBehind="MonitorBase.svc.vb" %>
